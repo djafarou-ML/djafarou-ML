@@ -2,7 +2,9 @@
 
 **💻 Computer Engineering Student | Self-taught in Machine Learning**
 
+
 🌱 Exploring **Data Science, ML projects, and AI experiments**
+
 
 📂 Check out my work, learn, and maybe **dab along the way!**
 
